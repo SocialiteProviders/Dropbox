@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\Dropbox;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
